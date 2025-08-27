@@ -1,0 +1,7 @@
+crewai==0.28.8
+crewai-tools==0.1.6
+langchain-google-genai==0.0.9
+python-dotenv
+fastapi
+uvicorn
+python-multipart

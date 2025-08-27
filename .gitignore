@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Environment variables - to keep secrets safe
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Temporary data files
+# This will keep the 'data' folder but ignore anything inside it
+data/*
